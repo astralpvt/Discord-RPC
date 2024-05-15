@@ -9,17 +9,17 @@ module.exports = {
   showTime: false, // Toggle to show or hide time in status (true/false)
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
-  Name: "Name Here!",
+  Name: "DISCORD DEVELOPER",
   State: "State Here!",
   Details: "Details Here!",
-  FirstButtonName: "Button1 Name",
-  FirstButtonUrl: "https://spicydevs.me/",
-  SecondButtonName: "Button2 Name",
-  SecondButtonUrl: "https://spicydevs.me/",
-  LargeImage: "https://media.discordapp.net/attachments/1154789029963890802/1155453767412621362/c195de24559e92ba8f283a719d2e5137.png", // DISCORD CDN IMAGE ONLY
-  LargeText: "Large Image Text", // hover text for large image
-  SmallImage: "https://media.discordapp.net/attachments/1154789029963890802/1155453635732451429/9b92f310a29c0dbcab36e825cb62593b.png", // DISCORD CDN IMAGE ONLY
-  SmallText: "Small Image Text", // hover text for small image
+  FirstButtonName: "INSTA",
+  FirstButtonUrl: "https://www.instagram.com/yuta.xae?igsh=MTVzenNodGt3MmE5cw==",
+  SecondButtonName: "DISCORD",
+  SecondButtonUrl: "https://discord.com/invite/sbFJCnQzJz",
+  LargeImage: "https://cdn.discordapp.com/attachments/1219627413831553034/1240186512079851592/071a36c7a48767b3a56465d712525a7a.gif?ex=6645a532&is=664453b2&hm=beb1a0521ef563c99b76fc923c6958114f141508f3fa41fedb8e3f61c29341c6&", // DISCORD CDN IMAGE ONLY
+  LargeText: "discord.js", // hover text for large image
+  SmallImage: "https://cdn.discordapp.com/attachments/1219627413831553034/1240186512079851592/071a36c7a48767b3a56465d712525a7a.gif?ex=6645a532&is=664453b2&hm=beb1a0521ef563c99b76fc923c6958114f141508f3fa41fedb8e3f61c29341c6&", // DISCORD CDN IMAGE ONLY
+  SmallText: "creating servers", // hover text for small image
 };
 
 ///////////////////////////
