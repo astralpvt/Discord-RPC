@@ -10,8 +10,8 @@ module.exports = {
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
   Name: "DISCORD DEVELOPER",
-  State: "State Here!",
-  Details: "Details Here!",
+  State: "CREATING SERVERS",
+  Details: "DISCORD DEVELOPER",
   FirstButtonName: "INSTA",
   FirstButtonUrl: "https://www.instagram.com/yuta.xae?igsh=MTVzenNodGt3MmE5cw==",
   SecondButtonName: "DISCORD",
