@@ -9,7 +9,7 @@ module.exports = {
   showTime: false, // Toggle to show or hide time in status (true/false)
   token: "" || process.env.TOKEN,
   timeZone: "Asia/Kolkata", //Your Timezone, eg Asia/Kolkata
-  Name: "DISCORD DEVELOPER",
+  Name: "My bio",
   State: "CREATING SERVERS",
   Details: "DISCORD DEVELOPER",
   FirstButtonName: "INSTA",
