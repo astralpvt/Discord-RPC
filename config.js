@@ -12,8 +12,8 @@ module.exports = {
   Name: "My bio",
   State: "LEARNING",
   Details: "DISCORD DEVELOPER",
-  FirstButtonName: "INSTA",
-  FirstButtonUrl: "https://youtu.be/xvFZjo5PgG0?si=ioUymXKIzVjZfjVe",
+  FirstButtonName: "APEX",
+  FirstButtonUrl: "https://discord.com/oauth2/authorize?client_id=1242504178409144390&permissions=8&scope=bot%20applications.commands",
   SecondButtonName: "DISCORD",
   SecondButtonUrl: "https://discord.gg/calestials",
   LargeImage: "https://cdn.discordapp.com/attachments/1243220472569794648/1243760144601321542/SPOILER_lv_0_20240524073828.gif?ex=6652a566&is=665153e6&hm=22faf9a6277899b572f6954fff598d8a330d2d688d6cfe6bb6e0e1418108f315& ", // DISCORD CDN IMAGE ONLY
